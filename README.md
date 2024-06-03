@@ -103,8 +103,11 @@ By following the above implementation steps and using the provided images as ref
 
 
 
+![Screenshot 2024-05-22 160912](https://github.com/satyam00043/facerecognition/assets/114933291/4511d5c9-a3a4-496a-8e5f-8a2ceb244ea0)
 
-Our system utilizes Tkinter for the user interface, offering a seamless interaction experience. Leveraging OpenCV, we employ cutting-edge image detection and recognition techniques to identify faces accurately. Through the integration of MySQL, we establish a robust database to store and manage attendance records efficiently.
+Our system u![Screenshot 2024-05-22 161001](https://github.com/satyam00043/facerecognition/assets/114933291/421d1117-33c0-4b60-b59c-4572c5c0905f)
+tilizes Tkinter for the user interface, offering a seamless interaction experience. Leveraging OpenCV, we employ cutting-edge image detection and recognition techniques to identify faces accurately. Through the integration of MySQL, we establish a robust database to store and manage attendance records efficiently.
+![Screenshot 2024-05-22 161033](https://github.com/satyam00043/facerecognition/assets/114933291/461d6d5d-a01d-44e7-858b-8e9ab362f6d4)
 
 Upon launching the application, users are greeted with a user-friendly interface where they can perform various actions such as registering new faces, taking attendance, and viewing attendance reports. The face recognition module employs advanced algorithms to match faces against stored images in the database, ensuring high precision in identification.
 
@@ -113,4 +116,11 @@ When a user requests attendance, the system captures live images, processes them
 Our solution not only streamlines the attendance tracking process but also enhances security and accuracy through advanced face recognition technology. With its user-friendly interface and robust backend, our attendance management system offers a comprehensive solution for organizations of all sizes.
 
 
+![Screenshot 2024-05-14 153530](https://github.com/satyam00043/facerecognition/assets/114933291/beef1a7c-158c-4780-8c99-bdac523843b6)
+![Screenshot 2024-05-14 153552](https://github.com/satyam00043/facerecognition/assets/114933291/e2e354aa-f3b8-4b25-a5c9-49f5e6d65b34)
+![Screenshot 2024-05-14 153643](https://github.com/satyam00043/facerecognition/assets/114933291/9dfa325d-957b-49a3-871f-7ac622f729a4)
 
+![Screenshot 2024-05-14 153821]![Screenshot 2024-05-14 154230](https://github.com/satyam00043/facerecognition/assets/114933291/405fc202-7611-4eb0-a852-982c5cc96e9c)
+(https://github.com/satyam00043/facerecognition/assets/114933291/b3f57e84-27fe-4fac-80fc-0ae1cf532851)![Screenshot 2024-05-14 160103](https://github.com/satyam00043/facerecognition/assets/114933291/58606e27-a4a3-4c02-b537-839b9a24a067)
+
+![Screenshot 2024-05-14 155424](https://github.com/satyam00043/facerecognition/assets/114933291/036d83c6-a900-49c1-a869-fef4e4a9f867)
