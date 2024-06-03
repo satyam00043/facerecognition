@@ -501,8 +501,8 @@ class Student:
                         face=cv2.resize(face_cropped(my_frame),(450,450))
                         face=cv2.cvtColor(face,cv2.COLOR_BGR2GRAY)
                         file_name_path="data/user."+str(id)+"."+str(img_id)+".jpg"
-                        cv2.imwrite(file_name_path)
-                        cv2.putText(face,str(img_id),(50,50),cv2.Font_HERSHY_COMPLEX,2,(0,225,0),2)
+                        cv2.imwrite(file_name_path,face)
+                        cv2.putText(face,str(img_id),(50,50),cv2.FONT_HERSHEY_COMPLEX,2,(0,225,0),2)
                         cv2.imshow("Cropped Face",face)
                     if cv2.waitKey(1)==13 or img_id==100:
                         break

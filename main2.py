@@ -2,7 +2,8 @@ from tkinter import *
 from PIL import Image, ImageTk
 from student import Student
 import os
-
+from time import strftime
+from datetime import datetime
 from train import Train
 from face_recognition import Face_Recognition
 from exit import Exit
@@ -52,6 +53,22 @@ class Face_recognition_system:
         # Title label
         title_lbl = Label(self.root, text="FACE RECOGNITION ATTENDANCE SYSTEM", font=("times new roman", 45, "bold"), bg="white", fg="blue")
         title_lbl.place(x=0, y=200, width=1400, height=45)
+        #def time
+        def time():
+            string = strftime("%H:%M:%S %p")
+            lbl1.config(text=string)
+            lbl1.after(1000, time)
+        lbl1=Label(f_lbl1,font=('times new roman',14,'bold'),background='white',fg="blue")
+        lbl1.place(x=0,y=0,width=110,height=40)
+        time()
+        def date():
+            now=datetime.now()
+            d1 = now.strftime("%d/%m/%Y")
+            lbl12.config(text=d1)
+            lbl12.after(1000, time)
+        lbl12=Label(f_lbl1,font=('times new roman',14,'bold'),background='white',fg="blue")
+        lbl12.place(x=0,y=50,width=110,height=40)
+        date()
 
         # Load and resize the button image
         button_img_path = "image/details.png"
