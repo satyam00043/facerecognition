@@ -124,3 +124,17 @@ Our solution not only streamlines the attendance tracking process but also enhan
 (https://github.com/satyam00043/facerecognition/assets/114933291/b3f57e84-27fe-4fac-80fc-0ae1cf532851)![Screenshot 2024-05-14 160103](https://github.com/satyam00043/facerecognition/assets/114933291/58606e27-a4a3-4c02-b537-839b9a24a067)
 
 ![Screenshot 2024-05-14 155424](https://github.com/satyam00043/facerecognition/assets/114933291/036d83c6-a900-49c1-a869-fef4e4a9f867)
+
+
+
+![Screenshot 2024-05-14 160103](https://github.com/satyam00043/facerecognition/assets/114933291/7d14f58c-b01d-4332-acd2-38702828a7be)
+
+
+
+Student View  
+
+![Screenshot 2024-06-03 170946](https://github.com/satyam00043/facerecognition/assets/114933291/230c67c3-6ab7-48c0-b2e5-cfe9b129c288)
+
+
+
+
